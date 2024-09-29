@@ -3,7 +3,7 @@
 
 A clean and responsive **Application Form** built using **HTML**, **CSS**, and **JavaScript**. This form captures important details such as personal information, contact details, job preferences, and file uploads, offering an intuitive experience for job applicants.
 
-##🔐Technologies Used
+## 🔐Technologies Used
 - **HTML5**: For creating the structure and form elements.
 - **CSS3**: For styling and ensuring a responsive design.
 - **JavaScript**: For form validation and interactive features (optional if needed).
